@@ -9,13 +9,14 @@ It enables users to monitor temperature and humidity from anywhere in the world 
 
 🎯 Features
 
--✨ Real-time Temperature Monitoring
--💧 Real-time Humidity Tracking
--📡 Wireless Data Transfer via ESP32 Wi-Fi
--☁️ Cloud Storage using Adafruit IO
--📊 Live Dashboard Visualization
--🔄 Auto Refresh Sensor Updates
--📱 Mobile + Web Access
+🎯 Features
+✨ Real-time Temperature Monitoring
+💧 Real-time Humidity Tracking
+📡 Wireless Data Transfer using ESP32 Wi-Fi
+☁️ Cloud Storage with Adafruit IO Platform
+📊 Live Dashboard Visualization for easy monitoring
+🔄 Automatic Sensor Data Refresh at regular intervals
+📱 Mobile & Web Access from anywhere
 
 🧰 Tech Stack
 ⚡ ESP32 Microcontroller
