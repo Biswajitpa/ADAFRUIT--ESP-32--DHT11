@@ -75,10 +75,10 @@ DHT11 Sensor → ESP32 → WiFi → Adafruit IO Cloud → Live Dashboard
 Satyabrata Sahoo
 🚀 IoT | Embedded Systems | VLSI Designer
 
-⭐ Show Your Support
+## ⭐ Show Your Support
 
-If you like this project:
+If you found this project useful:
 
-⭐ Star the repository
-🍴 Fork it
-🚀 Share with others
+⭐ **Star this repository** to support the project  
+🍴 **Fork it** and improve it further  
+🚀 **Share it** with your friends and community  
